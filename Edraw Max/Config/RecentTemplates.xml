@@ -1,0 +1,12 @@
+<Galleries>
+<Gallery nameu="Recent Templates" name="Recent Templates">
+<Templates name="Basic Flowchart" nameu="Basic Flowchart" solution="" icon="flowchart\basicflow.bmp" description="Create flowcharts, top-down diagrams, information tracking diagrams, process planning diagrams and structure prediction diagrams." baseon="">
+<Template name="Backgrounds" nameu="Backgrounds" path="\library\BasicShape\backgrounds.edt"/>
+<Template name="Borders" nameu="Borders" path="\library\BasicShape\borders.edt"/>
+<Template name="Titles" nameu="Titles" path="\library\BasicShape\Titles.edt"/>
+<Template name="Callouts" nameu="Callouts" path="\library\BasicShape\callouts.edt"/>
+<Template name="Arrow Shapes" nameu="Arrow Shapes" path="\library\BasicShape\arrow.edt"/>
+<Template name="Basic Flowchart Shapes" nameu="Basic Flowchart Shapes" path="\library\Flowchart\basicflow.edt"/>
+</Templates>
+</Gallery>
+</Galleries>

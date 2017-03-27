@@ -1,0 +1,22 @@
+2016-11-06 22:28:35 : ----------- Starting Prefs Migration:  Adobe Phtotoshop CC 2017 Build 8  [2016\11\06 at 22:28:35] -----------
+2016-11-06 22:28:35 : Photoshop found at 'C:\Program Files\Adobe\Adobe Photoshop CC 2017'  Version obtained:  18.0.0.53
+2016-11-06 22:28:35 : Checking Photoshop CC 2015.5 for prefs...
+2016-11-06 22:28:35 : Photoshop CC 2015.5 found.
+2016-11-06 22:28:40 : ---- Copy Files to C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Adobe Photoshop CC 2017 Settings --------
+[COPY] C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Adobe Photoshop CC 2017 Settings\Actions Palette.psp
+[COPY] C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Adobe Photoshop CC 2017 Settings\Adobe Photoshop CC 2017 Prefs.psp
+[COPY] C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Adobe Photoshop CC 2017 Settings\Default Type Styles.psp
+[COPY] C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Adobe Photoshop CC 2017 Settings\LaunchEndFlag.psp
+[COPY] C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Adobe Photoshop CC 2017 Settings\MachinePrefs.psp
+[COPY] C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Adobe Photoshop CC 2017 Settings\Materials.psp
+[COPY] C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Adobe Photoshop CC 2017 Settings\MRU New Doc Sizes.json
+[COPY] C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Adobe Photoshop CC 2017 Settings\New Doc Sizes.json
+[COPY] C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Adobe Photoshop CC 2017 Settings\UIPrefs.psp
+[COPY] C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Adobe Photoshop CC 2017 Settings\Workspace Prefs.psp
+[COPY] C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Adobe Photoshop CC 2017 Settings\WorkSpaces (Modified)\Essentials.psw
+
+2016-11-06 22:28:40 : [No action required] No files found:  C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2015.5\Presets
+2016-11-06 22:28:40 : [No action required] No files found:  C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2015.5\Optimized Colors
+2016-11-06 22:28:40 : [No action required] No files found:  C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2015.5\Optimized Output Settings
+2016-11-06 22:28:40 : [No action required] No files found:  C:\Users\Ragata\AppData\Roaming\Adobe\Adobe Photoshop CC 2015.5\Optimized Settings
+2016-11-06 22:28:40 : ------ Prefs Migration Complete:  2016\11\06 at 22:28:40 -----------
